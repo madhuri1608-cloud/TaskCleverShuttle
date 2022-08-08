@@ -1,0 +1,13 @@
+Below are the steps to test the API's:
+
+1. To CREATE a car details, we need to use POST method.
+
+http://localhost:8080/car/create 
+
+2. To READ all car details, we need to use GET Method.
+
+http://localhost:8080/car/getAll
+
+3. To READ by carId, we need to use GET Method.
+
+http://localhost:8080/car/getCar/{carId}
